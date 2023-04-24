@@ -18,11 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
-  
+
   .header {
     text-align: center;
   }
-  
+
 }
 .main-wrapper {
   display: block;
@@ -41,10 +41,12 @@ ul {
   margin: 0;
   padding: 0px;
 }
-li, h3 {
+li,
+h3 {
   list-style: none;
 }
-input,button{
+input,
+button {
   outline: none;
 }
 button {
